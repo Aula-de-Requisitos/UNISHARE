@@ -10,6 +10,10 @@ Link do Padlet:  https://padlet.com/mateusdejesusg11/unishare-335t022zpks4cmlk
 ***1.1.  Nome do Grupo***
 
 [Sabrina Cavalcante de Queiroz](https://github.com/Sabrinascq)
+[Mateus de Jesus](https://github.com/IG-jeebas)
+[Janderson Silva](https://github.com/JandersonLSilva)
+[Nelson Meirelles](https://github.com/Nelsonjr-74)
+[Thiago Henrique](https://github.com/thiagohenrique06)
 
 ***1.2.  Nome do Sistema***
 
