@@ -9,7 +9,7 @@ Link do Padlet:  https://padlet.com/mateusdejesusg11/unishare-335t022zpks4cmlk
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+[Sabrina Cavalcante de Queiroz](https://github.com/Sabrinascq)
 
 ***1.2.  Nome do Sistema***
 
