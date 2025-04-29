@@ -13,13 +13,11 @@ Indicar o nome e github dos integrantes do grupo
 
 ***1.2.  Nome do Sistema***
 
-Indicar o nome do software proposto
+UNISHARE
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
-
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O principal propósito do sistema é criar um aplicativo colaborativo voltado para estudantes da UTFPR, que funcione como um repositório de materiais de apoio acadêmico. A ideia é permitir o compartilhamento de conteúdos, além das informações do curso entre os alunos, organizando esses *materiais por professores e por assunto, promovendo assim a troca de recomendações sobre docentes e suas matérias.
 
 ***1.2.  Público Alvo***
 
