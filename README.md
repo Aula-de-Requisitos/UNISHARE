@@ -21,7 +21,7 @@ O principal propósito do sistema é criar um aplicativo colaborativo voltado pa
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+Este documento se destina aos Alunos da UTFPR.
 
 ***1.3. Descrição dos usuários***
 
