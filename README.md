@@ -33,7 +33,7 @@ Este documento se destina aos Alunos da UTFPR.
 
 ***Personas:***
 
-*<Imagem, arquivo (PDF), link com as Personas.>*
+<img src="[URL_da_Imagem](https://www.canva.com/design/DAGmoZufQiY/KRnOZ5_jFa2a6vwtwBFczA/view)" alt="Persona 1">
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
