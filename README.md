@@ -49,11 +49,11 @@ Este documento se destina aos Alunos da UTFPR.
 
 ***Cenário: Antes***
 
-*<Preencher com o cenário idealizado antes da aplicação do seu sistema.>*
+Antes da introdução da solução, os alunos estavam com dificuldades para se situar tanto dentro quanto fora das salas de aula. Devido ao difícil acesso a informações rápidas, simples e objetivas, os alunos ficavam confusos e perdidos em relação à fonte de informações e aos meios de obtê-las. Na maioria das vezes, recorriam a informações desatualizadas ou incoerentes repassadas por outros alunos.
 
 ***Cenário: Depois***
 
-*<Preencher com o cenário idealizado depois da aplicação do seu sistema.>*
+Em seguida, em consequência da implantação do nosso sistema, o público-alvo (os alunos) ainda não tinha conhecimento de tal ferramenta. Porém, após um período de divulgações e indicações por professores e pela instituição, os estudantes se familiarizaram com êxito, utilizando e usufruindo do sistema. Isso fez com que suas dúvidas fossem sanadas, a dificuldade para encontrar suas salas fosse praticamente eliminada e, por fim, as respectivas informações fossem recebidas de maneira correta e objetiva.
 
 ## 2. Documentos gerais no repositório
 
