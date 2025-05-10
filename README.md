@@ -76,7 +76,20 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 
 ***2.2. Requisitos Não Funcionais***
 
-*<Link, imagem, arquivo com os requisitos não funcionais.>*
+| Identificador | Descrição |
+| :-: | :- |
+| RNF1 | O sistema deve ser compatível com os sistemas operacionais Android 10 ou superior e com os navegadores Chrome, Firefox e Edge, nas últimas três versões |
+| RNF2 | Em caso de falha crítica, o sistema deve ser capaz de restaurar seu funcionamento completo em até 1 hora |
+| RNF3 | A navegação entre páginas do sistema deve ter latência inferior a 100ms em redes locais (LAN) e inferior a 300ms em redes móveis (4G ou superior) |
+| RNF4 | O sistema deve manter uma identidade visual padronizada (tipografia, cores, espaçamento) com base nas diretrizes da UTFPR, para reforçar a familiaridade institucional |
+| RNF5 | O aplicativo móvel deve otimizar o carregamento de imagens e arquivos, priorizando versões compactadas sempre que possível, visando reduzir o consumo de dados móveis |
+| RNF6 | O sistema deve suportar no mínimo 1 TB de arquivos acadêmicos no ambiente de produção, com possibilidade de expansão conforme a demanda |
+| RNF7 | O sistema deve garantir que informações pessoais de alunos (como nome completo, e-mail e curso) só sejam visíveis a outros usuários com consentimento explícito |
+| RNF8 | A plataforma deve suportar pelo menos 5.000 usuários ativos simultaneamente sem impacto crítico no desempenho |
+| RNF9 | Uma falha em um módulo (por exemplo, upload de arquivos) não deve comprometer o funcionamento de outros módulos (como busca ou autenticação) |
+| RNF10 | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD), garantindo consentimento explícito para uso de dados pessoais e possibilidade de exclusão mediante solicitação |
+| RNF11 | O sistema deve ser estruturado de forma que alterações em funcionalidades específicas (ex: sistema de recomendações) possam ser feitas sem impacto nos demais módulos |
+| RNF12 | Dados em cache ou arquivos temporários devem ser removidos automaticamente após 7 dias ou após logout do usuário, garantindo economia de armazenamento |
 
 ***2.3. Perguntas***
 
