@@ -33,7 +33,7 @@ Este documento se destina aos Alunos da UTFPR.
 
 ***Personas:***
 
-[Persona 1](https://github.com/Sabrinascq/Unishare/blob/main/Persona.pdf)
+[Persona 1](https://github.com/Aula-de-Requisitos/UNISHARE/blob/main/Persona.pdf)
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
