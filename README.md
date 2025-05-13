@@ -74,6 +74,7 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 | RF11 | O sistema deve permitir a interação e troca de comentários entre os usuários | RF3 |
 | RF12 | O sistema deve permitir aos usuários acessar a área de notícias |  |
 | RF13 | O sistema deve permitir o cadastro de professores na base de dados |  |
+| RF14 | O sistema deve permitir filtrar |  |
 
 ***2.2. Requisitos Não Funcionais***
 
