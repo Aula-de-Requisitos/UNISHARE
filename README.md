@@ -67,7 +67,7 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 | RF4 | O sistema deve permitir aos usuários realizar uma pesquisa de material por matéria | |
 | RF5 | O sistema deve permitir os usuários avaliar os professores | RF3 |
 | RF6 | O sistema deve enviar para os usuários notificações personalizadas |  |
-| RF7 | O sistema deve permitir os usuários organizar por disciplinas e professores |  |
+| RF7 | O sistema deve permitir os usuários organizar por disciplinas e professores | RF14 |
 | RF8 | O sistema deve exigir a criação de um perfil para que os usuários possam enviar os materiais |  |
 | RF9 | O sistema deve permitir que os usuários acessem um mapa interativo da UTFPR |  |
 | RF10 | O sistema deve permitir a acessibilidade para usuários cegos ou analfabetos |  |
