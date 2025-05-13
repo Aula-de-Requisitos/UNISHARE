@@ -61,10 +61,10 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 
 | Identificador | Descrição | Dependente |
 | :-: | :- | :-: |
-| RF1 | O sistema deve permitir os usuários a busca pelo nome de professor para poder acessar os feedbacks | RF13 |
+| RF1 | O sistema deve permitir os usuários a busca pelo nome de professor para poder acessar os feedbacks | RF13, RF15 |
 | RF2 | O sistema deve permitir os usuários inserir materiais de apoio | RF3 |
 | RF3 | O sistema deve permitir que os usuários efetuem o login com RA | RF8 |
-| RF4 | O sistema deve permitir aos usuários realizar uma pesquisa de material por matéria | |
+| RF4 | O sistema deve permitir aos usuários realizar uma pesquisa de material por matéria | RF14 |
 | RF5 | O sistema deve permitir os usuários avaliar os professores | RF3 |
 | RF6 | O sistema deve enviar para os usuários notificações personalizadas |  |
 | RF7 | O sistema deve permitir os usuários organizar por disciplinas e professores | RF14 |
@@ -74,7 +74,8 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 | RF11 | O sistema deve permitir a interação e troca de comentários entre os usuários | RF3 |
 | RF12 | O sistema deve permitir aos usuários acessar a área de notícias |  |
 | RF13 | O sistema deve permitir o cadastro de professores na base de dados |  |
-| RF14 | O sistema deve permitir filtrar |  |
+| RF14 | O sistema deve permitir filtrar professores, disciplinas e materiais |  |
+| RF15 | O sistema deve permitir criar feedbacks de professores | RF13 |
 
 ***2.2. Requisitos Não Funcionais***
 
