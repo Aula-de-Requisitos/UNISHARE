@@ -33,7 +33,7 @@ Estudantes da UTFPR, cuja dificuldade está na organização e manipulação de 
 
 ***Personas:***
 
-[Persona 1](https://github.com/Aula-de-Requisitos/UNISHARE/blob/main/Persona.pdf)
+[Persona 1](Persona.pdf)
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
