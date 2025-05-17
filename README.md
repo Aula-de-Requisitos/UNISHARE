@@ -95,8 +95,20 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 | RNF12 | Dados em cache ou arquivos temporários devem ser removidos automaticamente após 7 dias ou após logout do usuário, garantindo economia de armazenamento |
 
 ***2.3. Perguntas***
-
-*<Arquivo com as perguntas realizadas na entrevista .>*
+- Como você costuma acessar materiais acadêmicos? Existe alguma dificuldade em encontrá-los rapidamente?
+- Você acha fácil encontrar informações sobre professores e disciplinas? Gostaria que houvesse melhorias nesse aspecto?
+- Como você avalia sua experiência ao interagir com outros alunos e professores na plataforma da instituição?(Tem retorno no quesito de resposta)
+- Você já teve problemas ao utilizar a plataforma da instituição no seu celular ou computador? O que poderia ser melhorado?
+- Quando precisa acessar conteúdos  ou realizar buscas, você sente que o sistema responde rapidamente?
+- Você costuma utilizar a plataforma em redes móveis (4G, 5G)? O desempenho é satisfatório?
+- Você se sente confortável em compartilhar suas informações pessoais dentro da plataforma da instituição?
+- Existe alguma funcionalidade relacionada à segurança e privacidade que você acha que poderia ser melhorada?
+- Você conhece alguém que tenha dificuldades para usar a plataforma devido a questões de acessibilidade? Como acha que isso poderia ser resolvido?
+- O design da plataforma facilita sua navegação ou há pontos confusos que atrapalham sua experiência?
+- Se pudesse melhorar a interface da plataforma, o que mudaria para torná-la mais intuitiva?
+- Você já passou por alguma instabilidade ou falha no sistema enquanto utilizava a plataforma? Como isso afetou sua rotina acadêmica?
+- Em momentos de maior demanda, como períodos de provas, você sente que o sistema continua funcionando bem?
+- Se uma funcionalidade falhar (como upload de arquivos), você consegue continuar utilizando outras partes do sistema sem dificuldades, tem outro lugar possível onde possa enviar, manter contato?
 
 ***2.4. Entrevista***
 
