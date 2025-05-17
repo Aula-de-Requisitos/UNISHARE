@@ -58,12 +58,12 @@ Estudantes da UTFPR, cuja dificuldade está na organização e manipulação de 
    - Têm acesso direto a avaliações e recomendações sobre professores e disciplinas.  
    - Encontram materiais categorizados por assunto e docente sem depender de redes informais.  
 
-2.Quais os artefatos envolvidos?
+2. Quais os artefatos envolvidos?
    - Interface do aplicativo UNISHARE.  
    - Banco de dados estruturado com categorias de arquivos e docentes.  
    - Sistema de avaliações e troca de recomendações.  
 
-3.O que elas precisam saber?
+3. O que elas precisam saber?
    - Como utilizar o aplicativo para upload e download de materiais.  
    - Métodos de classificação e recomendação de docentes.  
    - Como garantir a segurança e privacidade dos arquivos compartilhados.
