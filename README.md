@@ -37,15 +37,36 @@ Estudantes da UTFPR, cuja dificuldade está na organização e manipulação de 
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
+1. O que as pessoas fazem?
+   - Estudantes buscam materiais acadêmicos em diversos canais, como grupos de redes sociais, sites e e-mails compartilhados.  
+   - Dependem de recomendações informais para obter informações sobre professores e disciplinas.  
+   - Armazenam documentos de maneira desorganizada, muitas vezes dispersos entre dispositivos ou plataformas.  
+
+2. Quais os artefatos envolvidos?
+   - Arquivos digitais (PDFs, apresentações, apostilas, anotações).  
+   - Plataformas de compartilhamento não estruturadas (WhatsApp, Telegram, Google Drive).  
+   - Métodos informais de avaliação de docentes (conversas entre alunos, enquetes).  
+
+3. O que elas precisam saber? 
+   - Onde encontrar materiais confiáveis e organizados.  
+   - Como trocar informações sobre professores e disciplinas.  
+   - Métodos eficazes para armazenar e acessar documentos sem risco de perda ou desorganização.  
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
+1. O que as pessoas fazem?
+   - Utilizam o aplicativo para armazenar, organizar e compartilhar arquivos de maneira intuitiva.  
+   - Têm acesso direto a avaliações e recomendações sobre professores e disciplinas.  
+   - Encontram materiais categorizados por assunto e docente sem depender de redes informais.  
 
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
+2.Quais os artefatos envolvidos?
+   - Interface do aplicativo UNISHARE.  
+   - Banco de dados estruturado com categorias de arquivos e docentes.  
+   - Sistema de avaliações e troca de recomendações.  
+
+3.O que elas precisam saber?
+   - Como utilizar o aplicativo para upload e download de materiais.  
+   - Métodos de classificação e recomendação de docentes.  
+   - Como garantir a segurança e privacidade dos arquivos compartilhados.
 
 ***Cenário: Antes***
 
