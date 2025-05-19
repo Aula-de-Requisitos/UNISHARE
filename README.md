@@ -82,23 +82,23 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 
 ***2.1. Requisitos Funcionais***
 
-| Identificador | Descrição | Dependente |
-| :-: | :- | :-: |
-| RF1 | O sistema deve permitir os usuários a busca pelo nome de professor para poder acessar os feedbacks | RF13, RF15 |
-| RF2 | O sistema deve permitir os usuários inserir materiais de apoio | RF3 |
-| RF3 | O sistema deve permitir que os usuários efetuem o login com RA | RF8 |
-| RF4 | O sistema deve permitir aos usuários realizar uma pesquisa de material por matéria | RF14 |
-| RF5 | O sistema deve permitir os usuários avaliar os professores | RF3 |
-| RF6 | O sistema deve enviar para os usuários notificações personalizadas |  |
-| RF7 | O sistema deve permitir os usuários organizar por disciplinas e professores | RF14 |
-| RF8 | O sistema deve exigir a criação de um perfil para que os usuários possam enviar os materiais |  |
-| RF9 | O sistema deve permitir que os usuários acessem um mapa interativo da UTFPR |  |
-| RF10 | O sistema deve permitir a acessibilidade para usuários cegos ou analfabetos |  |
-| RF11 | O sistema deve permitir a interação e troca de comentários entre os usuários | RF3 |
-| RF12 | O sistema deve permitir aos usuários acessar a área de notícias |  |
-| RF13 | O sistema deve permitir o cadastro de professores na base de dados |  |
-| RF14 | O sistema deve permitir filtrar professores, disciplinas e materiais |  |
-| RF15 | O sistema deve permitir criar feedbacks de professores | RF13 |
+| Identificador | Descrição | Dependente | Prioridade |
+| :-: | :- | :- | :-: |
+| RF1 | O sistema deve permitir os usuários a busca pelo nome de professor para poder acessar os feedbacks | RF13, RF15 | M |
+| RF2 | O sistema deve permitir os usuários inserir materiais de apoio | RF3 | M |
+| RF3 | O sistema deve permitir que os usuários efetuem o login com RA | RF8 | M |
+| RF4 | O sistema deve permitir aos usuários realizar uma pesquisa de material por matéria | RF14 | M |
+| RF5 | O sistema deve permitir os usuários avaliar os professores | RF3 | M |
+| RF6 | O sistema deve enviar para os usuários notificações personalizadas |  | C |
+| RF7 | O sistema deve permitir os usuários organizar por disciplinas e professores | RF14 | M |
+| RF8 | O sistema deve exigir a criação de um perfil para que os usuários possam enviar os materiais |  | S |
+| RF9 | O sistema deve permitir que os usuários acessem um mapa interativo da UTFPR |  | C |
+| RF10 | O sistema deve permitir a acessibilidade para usuários cegos ou analfabetos |  | S |
+| RF11 | O sistema deve permitir a interação e troca de comentários entre os usuários | RF3 | S |
+| RF12 | O sistema deve permitir aos usuários acessar a área de notícias |  | C |
+| RF13 | O sistema deve permitir o cadastro de professores na base de dados |  | M |
+| RF14 | O sistema deve permitir filtrar professores, disciplinas e materiais |  | M |
+| RF15 | O sistema deve permitir criar feedbacks de professores | RF13 | M |
 
 ***2.2. Requisitos Não Funcionais***
 
