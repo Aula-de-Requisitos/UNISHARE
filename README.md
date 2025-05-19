@@ -85,35 +85,35 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 | Identificador | Descrição | Dependente | Prioridade |
 | :-: | :- | :- | :-: |
 | RF1 | O sistema deve permitir os usuários a busca pelo nome de professor para poder acessar os feedbacks | RF13, RF15 | M |
-| RF2 | O sistema deve permitir os usuários inserir materiais de apoio | RF3 | M |
-| RF3 | O sistema deve permitir que os usuários efetuem o login com RA | RF8 | M |
-| RF4 | O sistema deve permitir aos usuários realizar uma pesquisa de material por matéria | RF14 | M |
-| RF5 | O sistema deve permitir os usuários avaliar os professores | RF3 | M |
-| RF6 | O sistema deve enviar para os usuários notificações personalizadas |  | C |
-| RF7 | O sistema deve permitir os usuários organizar por disciplinas e professores | RF14 | M |
-| RF8 | O sistema deve exigir a criação de um perfil para que os usuários possam enviar os materiais |  | S |
-| RF9 | O sistema deve permitir que os usuários acessem um mapa interativo da UTFPR |  | C |
-| RF10 | O sistema deve permitir a acessibilidade para usuários cegos ou analfabetos |  | S |
-| RF11 | O sistema deve permitir a interação e troca de comentários entre os usuários | RF3 | S |
-| RF12 | O sistema deve permitir aos usuários acessar a área de notícias |  | C |
+| RF2 | O sistema deve permitir os usuários inserir materiais de apoio | RF3, RF8 | M |
+| RF3 | O sistema deve permitir que os usuários efetuem o login com RA | RF8, RNF1, RNF10 | M |
+| RF4 | O sistema deve permitir aos usuários realizar uma pesquisa de material por matéria | RF2, RF7, RF14 | M |
+| RF5 | O sistema deve permitir os usuários avaliar os professores | RF13, RF3 | M |
+| RF6 | O sistema deve enviar para os usuários notificações personalizadas | RF3, RF7, RNF7, RNF10 | C |
+| RF7 | O sistema deve permitir os usuários organizar por disciplinas e professores | RF13, RF14 | M |
+| RF8 | O sistema deve exigir a criação de um perfil para que os usuários possam enviar os materiais | RF3, RNF10 | S |
+| RF9 | O sistema deve permitir que os usuários acessem um mapa interativo da UTFPR | RNF1, RNF5 | C |
+| RF10 | O sistema deve permitir a acessibilidade para usuários cegos ou analfabetos | RNF1 | S |
+| RF11 | O sistema deve permitir a interação e troca de comentários entre os usuários | RF3, RF8, RNF7, RNF10 | S |
+| RF12 | O sistema deve permitir aos usuários acessar a área de notícias | RF3, RNF1 | C |
 | RF13 | O sistema deve permitir o cadastro de professores na base de dados |  | M |
-| RF14 | O sistema deve permitir filtrar professores, disciplinas e materiais |  | M |
-| RF15 | O sistema deve permitir criar feedbacks de professores | RF13 | M |
+| RF14 | O sistema deve permitir filtrar professores, disciplinas e materiais | RF2, RF7, RF13 | M |
+| RF15 | O sistema deve permitir criar feedbacks de professores | RF3, RF13, RF8 | M |
 
 ***2.2. Requisitos Não Funcionais***
 
 | Identificador | Descrição | Dependente | Prioridade | 
 | :-: | :- | :- | :-: |
 | RNF1 | O sistema deve ser compatível com os sistemas operacionais Android 10 ou superior e com os navegadores Chrome, Firefox e Edge, nas últimas três versões |  | M |
-| RNF2 | Em caso de falha crítica, o sistema deve ser capaz de restaurar seu funcionamento completo em até 1 hora |  | S |
-| RNF3 | A navegação entre páginas do sistema deve ter latência inferior a 100ms em redes locais (LAN) e inferior a 300ms em redes móveis (4G ou superior) |  | S |
+| RNF2 | Em caso de falha crítica, o sistema deve ser capaz de restaurar seu funcionamento completo em até 1 hora | RNF9, RNF11 | S |
+| RNF3 | A navegação entre páginas do sistema deve ter latência inferior a 100ms em redes locais (LAN) e inferior a 300ms em redes móveis (4G ou superior) | RNF1, RNF5 | S |
 | RNF4 | O sistema deve manter uma identidade visual padronizada (tipografia, cores, espaçamento) com base nas diretrizes da UTFPR, para reforçar a familiaridade institucional |  | S |
 | RNF5 | O aplicativo móvel deve otimizar o carregamento de imagens e arquivos, priorizando versões compactadas sempre que possível, visando reduzir o consumo de dados móveis | RNF1 | S |
-| RNF6 | O sistema deve suportar no mínimo 1 TB de arquivos acadêmicos no ambiente de produção, com possibilidade de expansão conforme a demanda |  | S |
-| RNF7 | O sistema deve garantir que informações pessoais de alunos (como nome completo, e-mail e curso) só sejam visíveis a outros usuários com consentimento explícito |  | M |
+| RNF6 | O sistema deve suportar no mínimo 1 TB de arquivos acadêmicos no ambiente de produção, com possibilidade de expansão conforme a demanda | RF2 | S |
+| RNF7 | O sistema deve garantir que informações pessoais de alunos (como nome completo, e-mail e curso) só sejam visíveis a outros usuários com consentimento explícito | RF3, RF8 | M |
 | RNF8 | A plataforma deve suportar pelo menos 5.000 usuários ativos simultaneamente sem impacto crítico no desempenho | RNF9 | S |
 | RNF9 | Uma falha em um módulo (por exemplo, upload de arquivos) não deve comprometer o funcionamento de outros módulos (como busca ou autenticação) |  | M |
-| RNF10 | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD), garantindo consentimento explícito para uso de dados pessoais e possibilidade de exclusão mediante solicitação | RNF7 | M |
+| RNF10 | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD), garantindo consentimento explícito para uso de dados pessoais e possibilidade de exclusão mediante solicitação | RF3, RF8, RNF7 | M |
 | RNF11 | O sistema deve ser estruturado de forma que alterações em funcionalidades específicas (ex: sistema de recomendações) possam ser feitas sem impacto nos demais módulos | RNF9 | S |
 | RNF12 | Dados em cache ou arquivos temporários devem ser removidos automaticamente após 7 dias ou após logout do usuário, garantindo economia de armazenamento | RNF1, RNF5 | C |
 
