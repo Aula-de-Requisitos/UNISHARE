@@ -103,7 +103,7 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 ***2.2. Requisitos Não Funcionais***
 
 | Identificador | Descrição | Dependente | Prioridade | 
-| :-: | :- |
+| :-: | :- | :- | :-: |
 | RNF1 | O sistema deve ser compatível com os sistemas operacionais Android 10 ou superior e com os navegadores Chrome, Firefox e Edge, nas últimas três versões | RF13, RF15 | M |
 | RNF2 | Em caso de falha crítica, o sistema deve ser capaz de restaurar seu funcionamento completo em até 1 hora | RF13, RF15 | S |
 | RNF3 | A navegação entre páginas do sistema deve ter latência inferior a 100ms em redes locais (LAN) e inferior a 300ms em redes móveis (4G ou superior) | RF13, RF15 | S |
