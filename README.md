@@ -84,7 +84,7 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 
 | Identificador | Descrição | Dependente | Prioridade |
 | :-: | :- | :- | :-: |
-| RF1 | O sistema deve permitir os usuários a busca pelo nome de professor para poder acessar os feedbacks | RF13, RF15 | M |
+| RF1 | O sistema deve permitir os usuários a busca pelo nome de professor para poder acessar os feedbacks | RF13, RF15, RFN13 | M |
 | RF2 | O sistema deve permitir os usuários inserir materiais de apoio | RF3, RF8 | M |
 | RF3 | O sistema deve permitir que os usuários efetuem o login com RA | RF8, RNF1, RNF10 | M |
 | RF4 | O sistema deve permitir aos usuários realizar uma pesquisa de material por matéria | RF2, RF7, RF14 | M |
@@ -116,6 +116,8 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 | RNF10 | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD), garantindo consentimento explícito para uso de dados pessoais e possibilidade de exclusão mediante solicitação | RF3, RF8, RNF7 | M |
 | RNF11 | O sistema deve ser estruturado de forma que alterações em funcionalidades específicas (ex: sistema de recomendações) possam ser feitas sem impacto nos demais módulos | RNF9 | S |
 | RNF12 | Dados em cache ou arquivos temporários devem ser removidos automaticamente após 7 dias ou após logout do usuário, garantindo economia de armazenamento | RNF1, RNF5 | C |
+| RNF13 | O sistema deve conter um campo de upload de arquivos que aceite somentes documentos em formato PDF ou DOCX |  | C |
+
 
 ***2.3. Perguntas***
 - Como você costuma acessar materiais acadêmicos? Existe alguma dificuldade em encontrá-los rapidamente?
