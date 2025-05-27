@@ -86,7 +86,7 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 | :-: | :- | :- | :-: |
 | RF1 | O sistema deve permitir os usuários a busca pelo nome de professor para poder acessar os feedbacks | RF13, RF15, RFN13, RNF14 | M |
 | RF2 | O sistema deve permitir os usuários inserir materiais de apoio | RF3, RF8 | M |
-| RF3 | O sistema deve permitir que os usuários efetuem o login com RA | RF8, RNF1, RNF10 | M |
+| RF3 | O sistema deve permitir que os usuários efetuem o login com RA, depois que se cadastrarem no site | RF8, RNF1, RNF10 | M |
 | RF4 | O sistema deve permitir aos usuários realizar uma pesquisa de material por matéria | RF2, RF7, RF14, RNF14 | M |
 | RF5 | O sistema deve permitir os usuários avaliar os professores | RF13, RF3, RF16 | M |
 | RF6 | O sistema deve enviar para os usuários notificações personalizadas | RF3, RF7, RNF7, RNF10 | C |
