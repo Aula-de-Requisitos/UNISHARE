@@ -100,6 +100,8 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 | RF14 | O sistema deve permitir filtrar professores, disciplinas e materiais | RF2, RF7, RF13, RNF14 | M |
 | RF15 | O sistema deve permitir criar feedbacks de professores | RF3, RF13, RF8, RF16 | M |
 | RF16 | O sistema deve impedir mensagens e avaliações indevidas e ofensivas, por meio de validações do campo de avaliação |  | M |
+| RF17 | O sistema deve permitir ordenação de forma crescente ou decrescente para campos alfanuméricos |  | M |
+| RF18 | O sistema deve permitir que pessoas autorizadas verifique o upload de conteúdo não permitido, impróprio, etc., podendo tomar medidas cabíveis em cada situação |  | M |
 
 ***2.2. Requisitos Não Funcionais***
 
@@ -118,7 +120,6 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 | RNF11 | O sistema deve ser estruturado de forma que alterações em funcionalidades específicas (ex: sistema de recomendações) possam ser feitas sem impacto nos demais módulos | RNF9 | S |
 | RNF12 | Dados em cache ou arquivos temporários devem ser removidos automaticamente após 7 dias ou após logout do usuário, garantindo economia de armazenamento | RNF1, RNF5 | C |
 | RNF13 | O sistema deve conter um campo de upload de arquivos que aceite somentes documentos em formato PDF ou DOCX |  | C |
-| RNF14 | O sistema deve permitir ordenação de forma crescente ou decrescente para campos alfanuméricos |  | M |
 
 ***2.3. Perguntas***
 - Como você costuma acessar materiais acadêmicos? Existe alguma dificuldade em encontrá-los rapidamente?
