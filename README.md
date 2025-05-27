@@ -143,7 +143,59 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 
 ***2.5. Histórias do Usuário***
 
-*<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
+RF1 - Buscar nome de professor para acessar feedbacks
+Como um usuário, eu quero buscar pelo nome de um professor, para que eu possa acessar os feedbacks relacionados a ele.
+
+RF2 - Inserir materiais de apoio
+Como um usuário, eu quero inserir materiais de apoio, para que eu possa compartilhar conteúdos úteis com outros usuários.
+
+RF3 - Login com RA após cadastro
+Como um usuário, eu quero efetuar o login utilizando meu RA após o cadastro, para que eu possa acessar minhas informações e funcionalidades do sistema.
+
+RF4 - Pesquisa de material por matéria
+Como um usuário, eu quero pesquisar materiais por matéria, para que eu encontre conteúdos relevantes para minha disciplina de interesse.
+
+RF5 - Avaliar professores
+Como um usuário, eu quero avaliar professores, para que outras pessoas tenham acesso às opiniões sobre a qualidade do ensino.
+
+RF6 - Notificações personalizadas
+Como um usuário, eu quero receber notificações personalizadas, para que eu fique informado sobre atualizações e conteúdos relevantes para mim.
+
+RF7 - Organização por disciplinas e professores
+Como um usuário, eu quero organizar os materiais e informações por disciplinas e professores, para que eu encontre facilmente o que preciso.
+
+RF8 - Criar perfil para enviar materiais
+Como um usuário, eu quero criar um perfil, para que eu possa enviar materiais para a plataforma.
+
+RF9 - Acessar mapa interativo da UTFPR
+Como um usuário, eu quero acessar um mapa interativo da UTFPR, para que eu possa me localizar facilmente dentro do campus.
+
+RF10 - Acessibilidade para cegos ou analfabetos
+Como um usuário com necessidades específicas, eu quero que o sistema tenha recursos de acessibilidade, para que eu possa utilizá-lo sem dificuldades.
+
+RF11 - Interação e troca de comentários
+Como um usuário, eu quero interagir e trocar comentários com outros usuários, para que eu possa discutir e compartilhar ideias sobre os conteúdos disponíveis.
+
+RF12 - Acessar área de notícias
+Como um usuário, eu quero acessar a área de notícias, para que eu fique informado sobre novidades e comunicados importantes.
+
+RF13 - Cadastro de professores na base de dados
+Como um administrador, eu quero cadastrar professores na base de dados, para que eles possam ser associados a disciplinas e avaliações dos usuários
+
+RF14 - Filtrar professores, disciplinas e materiais
+Como um usuário, eu quero filtrar professores, disciplinas e materiais, para que eu possa encontrar facilmente informações relevantes.
+
+RF15 - Criar feedbacks de professores
+Como um usuário, eu quero criar feedbacks de professores, para que outras pessoas tenham acesso às minhas opiniões sobre as aulas.
+
+RF16 - Impedir mensagens e avaliações ofensivas
+Como um usuário, eu quero que mensagens e avaliações indevidas sejam impedidas, para que o ambiente do sistema se mantenha respeitoso e adequado.
+
+RF17 - Ordenação crescente ou decrescente para campos alfanuméricos
+Como um usuário, eu quero ordenar os dados de forma crescente ou decrescente, para que eu possa visualizar as informações de maneira mais organizada.
+
+RF18 - Verificação de uploads impróprios
+Como um administrador, eu quero verificar os uploads de conteúdo, para que eu possa tomar medidas cabíveis em relação a materiais inadequados.
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
