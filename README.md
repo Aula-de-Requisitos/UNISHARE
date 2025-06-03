@@ -199,7 +199,7 @@ Como um administrador, eu quero verificar os uploads de conteúdo, para que eu p
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
+[Caso de Uso](Caso de Uso.pdf)
 
 ***2.7. Diagramas de Atividades***
 
