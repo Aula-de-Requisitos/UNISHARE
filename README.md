@@ -206,7 +206,8 @@ Como um administrador, eu quero verificar os uploads de conteúdo, para que eu p
 
 ***2.7. Diagramas de Atividades***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
+[Diagrama de Atividades - Realizar Avaliação](Diagrama-de-Atividades/Realizar-Avaliação.png)
+[Diagrama de Atividades - Autenticar Usuário](Diagrama-de-Atividades/Autenticar-Usuario.png)
 
 ***2.8. Matrizes de Rastreabilidade***
 
