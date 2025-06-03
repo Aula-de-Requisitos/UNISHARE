@@ -214,7 +214,7 @@ Como um administrador, eu quero verificar os uploads de conteúdo, para que eu p
 
 ***2.9. Protótipos***
 
-*<Imagem, arquivo (PDF), link com Protótipo.>*
+[Prototipação](https://ninjamock.com/s/BFQW7Lx)
 
 ## Referências
 
