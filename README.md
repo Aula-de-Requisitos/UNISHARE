@@ -139,7 +139,7 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 
 ***2.4. Entrevista***
 
-*<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
+*<https://drive.google.com/drive/folders/1l61nn2Ky0gpvgulWSAB93tj2LtrBtlbO>*
 
 ***2.5. Histórias do Usuário***
 
