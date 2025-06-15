@@ -200,9 +200,9 @@ Como um administrador, eu quero verificar os uploads de conteúdo, para que eu p
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
-[Diagrama de Caso de Uso](CasodeUso.png)
+[Diagrama de Caso de Uso imagem](Diagramas-caso-de-uso/CasodeUso.png)
 
-[Caso de Uso](https://github.com/Aula-de-Requisitos/UNISHARE/blob/main/CasodeUso.pdf)
+[Caso de Uso PDF](Diagramas-caso-de-uso/CasodeUso.pdf)
 
 ***2.7. Diagramas de Atividades***
 
