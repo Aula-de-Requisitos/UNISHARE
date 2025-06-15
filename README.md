@@ -210,7 +210,9 @@ Como um administrador, eu quero verificar os uploads de conteúdo, para que eu p
 
 [Diagrama de Atividades - Autenticar Usuário](Diagrama-de-Atividades/Autenticar-Usuario.png)
 
-***2.8. Matrizes de Rastreabilidade***
+***2.8. Diagrama de Classes***
+
+***2.9. Matrizes de Rastreabilidade***
 
 *<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
 
