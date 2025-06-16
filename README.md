@@ -139,7 +139,7 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 - Se uma funcionalidade falhar (como upload de arquivos), você consegue continuar utilizando outras partes do sistema sem dificuldades, tem outro lugar possível onde possa enviar, manter contato?
 
 ***2.4. Entrevista***
-[Link para a gravação/documento de transcrição completo]([https://drive.google.com/drive/folders/1I61nn2Ky0gpvgulWSAB93tj2LtrBtIbO])  
+[Link para a gravação/documento de transcrição completo](https://drive.google.com/drive/folders/1I61nn2Ky0gpvgulWSAB93tj2LtrBtIbO)  
 
 #### Resumo das descobertas:  
 - **Problemas atuais:**  
