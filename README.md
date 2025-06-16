@@ -265,7 +265,7 @@ ________________________________________________________________________________
 
 ***2.8. Diagrama de Classes***
 
-[Diagrama de Classes](Diagrama-de-Classes.png)
+[Diagrama de Classes](Diagrama-de-Classes/Diagrama-de-Classes.png)
 
 ***2.9. Matrizes de Rastreabilidade***
 Aqui está sua tabela organizada no formato desejado:
