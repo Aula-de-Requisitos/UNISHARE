@@ -111,7 +111,7 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 | RNF1 | O sistema deve ser compatível com os sistemas operacionais Android 10 ou superior e com os navegadores Chrome, Firefox e Edge, nas últimas três versões |  | M |
 | RNF2 | Em caso de falha crítica, o sistema deve ser capaz de restaurar seu funcionamento completo em até 1 hora | RNF9, RNF11 | S |
 | RNF3 | A navegação entre páginas do sistema deve ter latência inferior a 100ms em redes locais (LAN) e inferior a 300ms em redes móveis (4G ou superior) | RNF1, RNF5 | S |
-| RNF4 | O sistema deve manter uma identidade visual padronizada (tipografia, cores, espaçamento) com base nas diretrizes da UTFPR, para reforçar a familiaridade institucional |  | S |
+| RNF4 | O sistema deve manter uma identidade visual próxima (tipografia, cores,) com base nas da UTFPR, para reforçar a familiaridade institucional |  | S |
 | RNF5 | O aplicativo móvel deve otimizar o carregamento de imagens e arquivos, priorizando versões compactadas sempre que possível, visando reduzir o consumo de dados móveis | RNF1 | S |
 | RNF6 | O sistema deve suportar no mínimo 1 TB de arquivos acadêmicos no ambiente de produção, com possibilidade de expansão conforme a demanda | RF2 | S |
 | RNF7 | O sistema deve garantir que informações pessoais de alunos (como nome completo, e-mail e curso) só sejam visíveis a outros usuários com consentimento explícito | RF3, RF8 | M |
@@ -231,7 +231,7 @@ Aqui está sua tabela organizada no formato desejado:
 | RF13 | Cadastrar professores na base | Como administrador, quero cadastrar professores na base para associar a avaliações | Inserir professores no banco de dados | M |
 | RF15 | Criar feedbacks de professores | Como usuário, quero criar feedbacks de professores para compartilhar minhas opiniões | Avaliar professores | M |
 | RNF1 | Compatibilidade com Android/navegadores | - | Todos os casos de uso | M |
-| RNF4 | Identidade visual padronizada (UTFPR) | - | Todos os casos de uso | S |
+| RNF4 | Identidade visual próxima da UTFPR | - | Todos os casos de uso | S |
 | RNF7 | Privacidade de dados pessoais | - | Criar perfil, Interação entre usuários | M |
 | RNF10 | Conformidade com LGPD | - | Todos os casos de uso com dados pessoais | M |
 
