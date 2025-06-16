@@ -16,8 +16,8 @@ Link do Padlet:  https://padlet.com/mateusdejesusg11/unishare-335t022zpks4cmlk
 [Thiago Henrique](https://github.com/thiagohenrique06)  
 
 ***1.2.  Nome do Sistema***
-
-UNISHARE
+***UNISHARE: Plataforma Colaborativa Acadêmica***
+Missão:Otimizar o ecossistema educacional da UTFPR através de compartilhamento estruturado de conhecimento e avaliação docente colaborativa.
 
 ***1.3.  Propósito do Sistema***
 
@@ -25,8 +25,11 @@ O principal propósito do sistema é criar um aplicativo colaborativo voltado pa
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos Alunos da UTFPR.
+Este documento se destina a Alunos Estudantes de graduação e pós-graduação da UTFPR, com ênfase em:
 
+- **Calouros** necessitando de orientação acadêmica
+- **Alunos de períodos avançados** compartilhando materiais a fim de serem apoiados.
+  
 ***1.3. Descrição dos usuários***
 
 Estudantes da UTFPR, cuja dificuldade está na organização e manipulação de arquivos diretamente relacionados às aulas, no armazenamento prático e intuitivo de documentos voltados para fins didáticos e na troca concreta e segura de recomendações sobre docentes e suas disciplinas
