@@ -214,6 +214,27 @@ Como um administrador, eu quero verificar os uploads de conteúdo, para que eu p
 
 ***2.9. Matrizes de Rastreabilidade***
 
+|ID Requisito|Descrição	|História de Usuário Associada|Casos de Uso Relacionados|Prioridade|
+| :-: | :- | :- | :-: |
+|RF1|   	Buscar professor por nome para feedbacks|	Como usuário, quero buscar pelo nome de um professor para acessar feedbacks relacionados|	Visualizar avaliações de professores|	M
+|RF2|	   Inserir materiais de apoio	Como usuário, quero inserir materiais de apoio para compartilhar conteúdos úteis	Inserir materiais acadêmicos	M
+|RF3|	   Login com RA após cadastro	Como usuário, quero efetuar login com meu RA após cadastro para acessar minhas informações	-	M
+|RF4|   	Pesquisar material por matéria	Como usuário, quero pesquisar materiais por matéria para encontrar conteúdos relevantes	Acessar materiais acadêmicos	M
+|RF5|	   Avaliar professores	Como usuário, quero avaliar professores para compartilhar opiniões sobre qualidade de ensino	Avaliar professores	M
+|RF6|	   Notificações personalizadas	Como usuário, quero receber notificações personalizadas para ficar informado	-	C
+|RF7|	   Organizar por disciplinas/professores	Como usuário, quero organizar materiais por disciplinas e professores para fácil acesso	Acessar materiais acadêmicos, Visualizar avaliações	M
+|RF8|	   Exigir perfil para enviar materiais	Como usuário, quero criar um perfil para poder enviar materiais para a plataforma	-	S
+|RF9|	   Acessar mapa interativo da UTFPR	Como usuário, quero acessar um mapa interativo da UTFPR para me localizar no campus	Visualizar mapa da UTFPR	C
+|RF11|	Interação e comentários entre usuários	Como usuário, quero interagir e trocar comentários para discutir conteúdos	Conversar no chat com outros usuários	S
+|RF12|	Acessar área de notícias	Como usuário, quero acessar área de notícias para ficar informado sobre novidades	Visualizar notícias da UTFPR	C
+|RF13|	Cadastrar professores na base	Como administrador, quero cadastrar professores na base para associar a avaliações	Inserir professores no banco de dados	M
+|RF15|	Criar feedbacks de professores	Como usuário, quero criar feedbacks de professores para compartilhar minhas opiniões	Avaliar professores	M
+|RNF1|   Compatibilidade com Android/navegadores	-	Todos os casos de uso	M
+|RNF4|	Identidade visual padronizada (UTFPR)	-	Todos os casos de uso	S
+|RNF7|	Privacidade de dados pessoais	-	Criar perfil, Interação entre usuários	M
+|RNF10|	Conformidade com LGPD	-	Todos os casos de uso com dados pessoais	M
+
+
 *<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
 
 ***2.9. Protótipos***
