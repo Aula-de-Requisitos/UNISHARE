@@ -16,7 +16,7 @@ Link do Padlet:  https://padlet.com/mateusdejesusg11/unishare-335t022zpks4cmlk
 [Thiago Henrique](https://github.com/thiagohenrique06)  
 
 ***1.2.  Nome do Sistema***
-**UNISHARE: Plataforma Colaborativa Acadêmica**
+*UNISHARE: Plataforma Colaborativa Acadêmica*
 Missão:Otimizar o ecossistema educacional da UTFPR através de compartilhamento estruturado de conhecimento e avaliação docente colaborativa.
 
 ***1.3.  Propósito do Sistema***
