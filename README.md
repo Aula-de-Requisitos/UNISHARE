@@ -139,8 +139,19 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 - Se uma funcionalidade falhar (como upload de arquivos), você consegue continuar utilizando outras partes do sistema sem dificuldades, tem outro lugar possível onde possa enviar, manter contato?
 
 ***2.4. Entrevista***
+[Link para a gravação/documento de transcrição completo]([https://drive.google.com/drive/folders/1I61nn2Ky0gpvgulWSAB93tj2LtrBtIbO])  
 
-*<https://drive.google.com/drive/folders/1I61nn2Ky0gpvgulWSAB93tj2LtrBtIbO>*
+#### Resumo das descobertas:  
+- **Problemas atuais:**  
+  • Dificuldade para encontrar materiais (RF4, RF7)  
+  • Comunicação falha com professores (RF11)  
+  • Instabilidade técnica (RNF2, RNF3)  
+
+- **Sugestão do usuário:**  
+  • Organização padronizada por disciplina (RF14)  
+  • Design minimalista (RNF4)  
+  • Suporte a alta demanda (RNF8)  
+
 
 ***2.5. Histórias do Usuário***
 
@@ -238,8 +249,6 @@ Aqui está sua tabela organizada no formato desejado:
 | RNF10 | Conformidade com LGPD | - | Todos os casos de uso com dados pessoais | M |
 
 
-
-*<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
 
 ***2.9. Protótipos***
 
