@@ -34,14 +34,44 @@ Este documento se destina a Alunos Estudantes de graduação e pós-graduação 
   
 ***1.3. Descrição dos usuários***
 
-Estudantes da UTFPR, cuja dificuldade está na organização e manipulação de arquivos diretamente relacionados às aulas, no armazenamento prático e intuitivo de documentos voltados para fins didáticos e na troca concreta e segura de recomendações sobre docentes e suas disciplinas
+Estudantes da UTFPR, cuja dificuldade está na organização e manipulação de arquivos diretamente relacionados às aulas, no armazenamento prático e intuitivo de documentos voltados para fins didáticos e na troca concreta e segura de recomendações sobre docentes e suas disciplinas.
 
+__________________________________________________________________________________________________________________
 ***Personas:***
 
 [Persona 1](Personas/Persona.pdf)
 
+**Persona 1: Júlia Martins**
+
+**Motivação:**
+"Cansada de perder tempo com materiais desorganizados que prejudicam seu rendimento nas provas"
+
+**Uso:**
+"Acessa o UNISHARE toda segunda-feira para planejar estudos da semana"
+
+**Requisitos atendidos:**
+
+- RF4 (Busca por matéria)
+- RF7 (Organização intuitiva
+
 [Persona 2](Personas/Persona2.pdf)
 
+**Persona 2: Lucas Andrade**
+
+**Comportamento:**
+
+"Prioriza eficiência: precisa conciliar trabalho e estudos"
+
+**Expectativa:**
+"Exige carregamento instantâneo mesmo com internet limitada" (RNF5)
+
+**Requisitos atendidos:**
+
+- RF1 (Busca de professores)
+- RF15 (Feedback detalhado)
+- RNF3 (Latência)
+
+__________________________________________________________________________________________________________________
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
@@ -75,6 +105,7 @@ Estudantes da UTFPR, cuja dificuldade está na organização e manipulação de 
    - Como utilizar o aplicativo para upload e download de materiais.  
    - Métodos de classificação e recomendação de docentes.  
    - Como garantir a segurança e privacidade dos arquivos compartilhados.
+__________________________________________________________________________________________________________________
 
 ***Cenário: Antes***
 
@@ -83,6 +114,8 @@ Antes da introdução da solução, os alunos estavam com dificuldades para se s
 ***Cenário: Depois***
 
 Em seguida, em consequência da implantação do nosso sistema, o público-alvo (os alunos) ainda não tinha conhecimento de tal ferramenta. Porém, após um período de divulgações e indicações por professores e pela instituição, os estudantes se familiarizaram com êxito, utilizando e usufruindo do sistema. Isso fez com que suas dúvidas fossem sanadas, a dificuldade para encontrar suas salas fosse praticamente eliminada e, por fim, as respectivas informações fossem recebidas de maneira correta e objetiva.
+
+__________________________________________________________________________________________________________________
 
 ## 2. Documentos gerais no repositório
 
@@ -127,21 +160,23 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
 | RNF12 | Dados em cache ou arquivos temporários devem ser removidos automaticamente após 7 dias ou após logout do usuário, garantindo economia de armazenamento | RNF1, RNF5 | C |
 | RNF13 | O sistema deve conter um campo de upload de arquivos que aceite somentes documentos em formato PDF ou DOCX |  | C |
 
+__________________________________________________________________________________________________________________
 ***2.3. Perguntas***
-- Como você costuma acessar materiais acadêmicos? Existe alguma dificuldade em encontrá-los rapidamente?
-- Você acha fácil encontrar informações sobre professores e disciplinas? Gostaria que houvesse melhorias nesse aspecto?
-- Como você avalia sua experiência ao interagir com outros alunos e professores na plataforma da instituição?(Tem retorno no quesito de resposta)
-- Você já teve problemas ao utilizar a plataforma da instituição no seu celular ou computador? O que poderia ser melhorado?
+- Como você costuma acessar materiais acadêmicos? Existe alguma dificuldade em encontrá-los?
+- Os professores costumam disponibilizar os materias? Gostaria que houvesse melhorias nesse aspecto?
+- Como você avalia sua experiência ao interagir com outros alunos e professores na plataforma da instituição?(Tem retorno no quesito de resposta)?
+- Você já teve problemas ao utilizar a plataforma da instituição no seu celular ou computador?
+- O que poderia ser melhorado?
 - Quando precisa acessar conteúdos  ou realizar buscas, você sente que o sistema responde rapidamente?
-- Você costuma utilizar a plataforma em redes móveis (4G, 5G)? O desempenho é satisfatório?
-- Você se sente confortável em compartilhar suas informações pessoais dentro da plataforma da instituição?
-- Existe alguma funcionalidade relacionada à segurança e privacidade que você acha que poderia ser melhorada?
-- Você conhece alguém que tenha dificuldades para usar a plataforma devido a questões de acessibilidade? Como acha que isso poderia ser resolvido?
-- O design da plataforma facilita sua navegação ou há pontos confusos que atrapalham sua experiência?
-- Se pudesse melhorar a interface da plataforma, o que mudaria para torná-la mais intuitiva?
-- Você já passou por alguma instabilidade ou falha no sistema enquanto utilizava a plataforma? Como isso afetou sua rotina acadêmica?
-- Em momentos de maior demanda, como períodos de provas, você sente que o sistema continua funcionando bem?
-- Se uma funcionalidade falhar (como upload de arquivos), você consegue continuar utilizando outras partes do sistema sem dificuldades, tem outro lugar possível onde possa enviar, manter contato?
+- O desempenho é satisfatório entre o Wifi e os dados móveis?
+- O que poderia ser melhorado no sistema Unishare, e Qual seria a diferença que você sente entre nosso sistema e o Moodle?
+- Quanto disponibilizar alguns materiais de outras instituições, você acha que facilitaria o seu acesso aos materiais dessas matérias?
+- Você conhece alguém que tenha mais dificuldade em usar a plataforma do Moodle, por exemplo?
+- Você acha que no Moodle existe esse apoio? (acessibilidade)
+- Sobre a nossa plataforma e o Moodle, você acha que o designer da nossa plataforma, ele acaba facilitando a sua navegação?
+- E se pudesse melhorar alguma coisa da interface da plataforma, o que você mudaria pra tornar mais intuitiva?
+- E as Dificuldades para acessar plataformas de ensino, como que isso afetou a sua vida acadêmica?
+- A nossa plataforma (UNISHARE)conseguiria concentrar um número maior de alunos e de professores interagindo entre si?
 
 ***2.4. Entrevista***
 [Link para a gravação/documento de transcrição completo](https://drive.google.com/drive/folders/1I61nn2Ky0gpvgulWSAB93tj2LtrBtIbO)  
@@ -157,6 +192,7 @@ Em seguida, em consequência da implantação do nosso sistema, o público-alvo 
   • Design minimalista (RNF4)  
   • Suporte a alta demanda (RNF8)  
 
+__________________________________________________________________________________________________________________
 
 ***2.5. Histórias do Usuário***
 
@@ -214,6 +250,7 @@ Como um usuário, eu quero ordenar os dados de forma crescente ou decrescente, p
 RF18 - Verificação de uploads impróprios
 Como um administrador, eu quero verificar os uploads de conteúdo, para que eu possa tomar medidas cabíveis em relação a materiais inadequados.
 
+__________________________________________________________________________________________________________________
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
 [Diagrama de Caso de Uso imagem](Diagramas-caso-de-uso/CasodeUso.png)
@@ -254,13 +291,7 @@ Aqui está sua tabela organizada no formato desejado:
 | RNF10 | Conformidade com LGPD | - | Todos os casos de uso com dados pessoais | M |
 
 
-
 ***2.9. Protótipos***
 
 [Prototipação](https://ninjamock.com/s/BFQW7Lx)
 
-## Referências
-
-*<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
-
-[1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
