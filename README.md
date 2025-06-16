@@ -214,11 +214,11 @@ Como um administrador, eu quero verificar os uploads de conteúdo, para que eu p
 
 ***2.9. Matrizes de Rastreabilidade***
 
-|ID Requisito|Descrição	|História de Usuário Associada|Casos de Uso Relacionados|Prioridade|
+**|ID Requisito|Descrição	|História de Usuário Associada|Casos de Uso Relacionados|Prioridade|**
 | :-: | :- | :- | :-: |
-|RF1|   	Buscar professor por nome para feedbacks|	Como usuário, quero buscar pelo nome de um professor para acessar feedbacks relacionados|	Visualizar avaliações de professores|	M
-|RF2|	   Inserir materiais de apoio	Como usuário, quero inserir materiais de apoio para compartilhar conteúdos úteis	Inserir materiais acadêmicos	M
-|RF3|	   Login com RA após cadastro	Como usuário, quero efetuar login com meu RA após cadastro para acessar minhas informações	-	M
+|RF1|Buscar professor por nome para feedbacks|	Como usuário, quero buscar pelo nome de um professor para acessar feedbacks relacionados|	Visualizar avaliações de professores|M|
+|RF2|	   Inserir materiais de apoio	Como usuário, quero inserir materiais de apoio para compartilhar conteúdos úteis	Inserir materiais acadêmicos|	|M|
+|RF3|	   Login com RA após cadastro	Como usuário, quero efetuar login com meu RA após cadastro para acessar minhas informações	|-	|M|
 |RF4|   	Pesquisar material por matéria	Como usuário, quero pesquisar materiais por matéria para encontrar conteúdos relevantes	Acessar materiais acadêmicos	M
 |RF5|	   Avaliar professores	Como usuário, quero avaliar professores para compartilhar opiniões sobre qualidade de ensino	Avaliar professores	M
 |RF6|	   Notificações personalizadas	Como usuário, quero receber notificações personalizadas para ficar informado	-	C
